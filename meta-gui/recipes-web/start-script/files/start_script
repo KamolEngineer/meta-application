@@ -1,0 +1,3 @@
+#!/bin/bash
+
+COG_PLATFORM_WL_VIEW_FULLSCREEN=1 /usr/bin/cog http://localhost
