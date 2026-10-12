@@ -1,4 +1,4 @@
-DESCRIPTION = "CPU Temperature Web GUI for Raspberry Pi"
+DESCRIPTION = "CPU Web GUI for Raspberry Pi"
 LICENSE = "CLOSED"
 
 SRC_URI = "file://led-toggle.sh"
